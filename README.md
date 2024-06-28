@@ -1,28 +1,17 @@
-Phone Number Geolocation Script
+# Phone Number Geolocation Script
 
-GitHub Release | 
- | 
- | Join the chat
+![Phone Number Geolocation](https://via.placeholder.com/800x400.png?text=Phone+Number+Geolocation)
 
-Don't like the development noise from the repository but want to keep up with changes? Check out our gitter channel. Have a quick question that doesn't require an issue report? Drop by our gitter Help channel and ask away.
+This Python script demonstrates how to use the `phonenumbers` library to parse and geocode phone numbers. The script will output the geographical location associated with a given phone number.
 
-A script designed to geolocate phone numbers
-This script is designed to geolocate phone numbers using the phonenumbers library. It is simple to use and provides the geographical location associated with a given phone number.
+## Requirements
 
-Contents
-Features
-Quick installation
-Usage
-Example
-Resources
-Contributing
-Acknowledgements
-License
-Features
-Parse and geolocate phone numbers.
-Simple and easy to use.
-Supports multiple regions.
-Quick installation
-Requirements
-Python 3.x
-phonenumbers library
+- Python 3.x
+- `phonenumbers` library
+
+## Installation
+
+To run this script, you need to have Python installed on your machine. Additionally, you need to install the `phonenumbers` library. You can install it using pip:
+
+```bash
+pip install phonenumbers
